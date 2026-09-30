@@ -5,7 +5,7 @@
 <h1>Hey there, I'm Hammad Hasan 👋</h1>
 
 <a href="https://github.com/HammadHasan68">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+LLM+Integrations;+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+LLM+Integrations;Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
 
 <p>
@@ -73,9 +73,9 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HammadHasan68/HammadHasan68/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HammadHasan68/HammadHasan68/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/HammadHasan68/HammadHasan68/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
@@ -85,5 +85,5 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Hammad Hasan</b>Full Stack Developer</sub>
+<sub><b>© Hammad Hasan</b> Full Stack Developer</sub>
 </div>
