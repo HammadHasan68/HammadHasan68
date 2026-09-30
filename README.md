@@ -5,7 +5,7 @@
 <h1>Hey there, I'm Hammad Hasan 👋</h1>
 
 <a href="https://github.com/HammadHasan68">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+LLM+Integrations;+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
 
 <p>
@@ -25,12 +25,12 @@
 
 <p>
   <a href="https://github.com/nerajlal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/HammadHasan68?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
   </a>
   <a href="https://github.com/nerajlal?tab=repositories">
-    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/HammadHasan68?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=HammadHasan68&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
 </p>
 
 <br clear="both">
