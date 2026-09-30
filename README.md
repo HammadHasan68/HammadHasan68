@@ -71,12 +71,6 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <div align="center">
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niraj lal/niraj lal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niraj lal/niraj lal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/niraj lal/niraj lal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
-</picture>
-
 </div>
 
 <br>
