@@ -2,23 +2,23 @@
 
 <img align="right" src="./img.png" width="250" hspace="15" alt="Neraj Lal">
 
-<h1>Hey there, I'm Neraj Lal 👋</h1>
+<h1>Hey there, I'm Hammad Hasan 👋</h1>
 
-<a href="https://github.com/nerajlal">
+<a href="https://github.com/HammadHasan68">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
 
 <p>
-  <a href="https://nerajlal.gecnoguru.com/">
+  <a href="https://portfolio-h8mm8d.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
   </a>
-  <a href="https://github.com/nerajlal">
+  <a href="https://github.com/HammadHasan68">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/nerajlal/">
+  <a href="https://www.linkedin.com/in/hammad-hasan-929865362">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/techbyneraj/">
+  <a href="https://shorturl.at/6uEs2">
     <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
   </a>
 </p>
@@ -45,24 +45,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm **Hammad Hasan**, a Full Stack Developer focused on building modern web applications and AI-powered solutions,stronging CS foundations at Fast University.
 
 I enjoy taking an idea from **concept → architecture → development → deployment → production**.
 
 - 🚀 Full Stack Web Development
-- 🛍️ Shopify App Development
 - 🤖 AI & LLM Integrations
-- 🏗️ SaaS & Multi-Tenant Applications
-- ☁️ Cloud Deployment & Server Management
-- ⚡ Laravel, PHP, JavaScript & React
-- 🐍 Exploring Python & Django
+- ⚡ JavaScript & React
+- 🐍 Exploring Python
 
 > **Build things. Break things. Learn things. Ship things.**
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,javascript,typescript,react,nextjs,nodejs,shopify,mysql,redis,docker,git,github,linux,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nextjs,nodejs,git,github,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 </tr>
@@ -88,5 +85,5 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Neraj Lal</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
+<sub><b>© Hammad Hasan</b>Full Stack Developer</sub>
 </div>
